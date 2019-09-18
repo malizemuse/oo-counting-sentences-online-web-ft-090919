@@ -36,3 +36,4 @@ end
 
 # TEST CODE 
 string = "This is a string! It has three sentences. Right?"
+string.count_sentences
