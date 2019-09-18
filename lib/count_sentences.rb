@@ -27,8 +27,8 @@ class String
   end
 
   def count_sentences
-    test = self.split(/[.|?|!]/)
-    test.count
+    sentence_array = self.split(/[.|?|!]/)
+    sentence_array.count
   end
   
 end
