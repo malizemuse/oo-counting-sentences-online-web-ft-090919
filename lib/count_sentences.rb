@@ -35,4 +35,4 @@ end
 
 
 # TEST CODE 
-string = ""
+string = "This is a string! It has three sentences. Right?"
